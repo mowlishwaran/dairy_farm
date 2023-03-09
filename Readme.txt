@@ -15,5 +15,5 @@ How to run the Dairy Farm Shop Management System Project (DFSMS)
 
 Admin Credential
 
-Username: mowli
-Password: mowli@3663
+Username: admin
+Password: Test@123
